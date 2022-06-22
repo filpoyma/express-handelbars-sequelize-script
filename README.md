@@ -1,7 +1,7 @@
 Скрипт, создающий скелет приложения Express, Hbs, Sequelize.
 
 
-  Файл выпонняет установку express, hbs, sequelize для postgres и postgres-cli
+  Файл выпонняет установку express, hbs, sequelize для postgres и postgres-cli в среде NodeJS
 
  Для того что бы все сработало:
  1) Сохраняете себе express-hbs-sequelize.sh файл и кидаете его в корень нового проекта.
